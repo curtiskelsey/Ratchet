@@ -19,7 +19,7 @@
     }
   , "autoload": {
         "psr-4": {
-            "Ratchet\\": "src/Ratchet"
+            "Ratchet\\": "src"
         }
     }
   , "require": {
